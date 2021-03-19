@@ -1,0 +1,114 @@
+
+body{
+	
+	
+	
+}
+
+.wrapper--buttons{
+	
+	background-color:#B5BFD6;
+	padding:50px;
+	color:white;
+	
+	
+}
+.button-blue{
+	
+	
+	width:120px;
+	height:auto;
+	border-radius: 6px;
+    border: none;
+    display: inline-block;
+    color: black;
+    line-height: 1.25em;
+    text-decoration: none;
+    margin-bottom: 1em;
+    padding: 8px 48px 8px 16px;
+    position: relative;
+	
+	
+}
+	
+	
+.button-blue{
+	background-color: #004b86;
+    -webkit-box-shadow: inset 0 0 1px 1px #004b86;
+    box-shadow: inset 0 0 1px 1px #004b86;
+	
+	
+	
+}
+	
+
+	
+.button-blue{
+	width:80px;
+	
+	
+}
+
+
+i.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  
+}
+
+.arrow {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.korte-intake-button{
+	background-color:#004b86;
+	color:white;
+	border-radius:8px;
+	border:none;
+	padding: 5px 21px;
+	text-align:left;
+	
+	
+}
+
+.korte-intake-button:hover{
+	background-color:#2B5A80;
+	color:white;
+	border-radius:8px;
+	border:none;
+	padding: 5px 21px;
+	text-align:left;
+	
+	
+}
+
+.lees-meer-button{
+	background-color:rgb(43,90,128);
+	color:white;
+	border-radius:8px;
+	border:none;
+	padding: 5px 21px;
+	text-align:center;
+	height:50px;
+	
+	
+}
+
+.lees-meer-button:hover{
+	background-color:rgb(60,100,128);
+	color:white;
+	border-radius:8px;
+	border:none;
+	padding: 5px 21px;
+	text-align:center;
+	
+	
+}
+
+.wrapper--lees-meer-button{
+	text-align:center;
+	
+}
